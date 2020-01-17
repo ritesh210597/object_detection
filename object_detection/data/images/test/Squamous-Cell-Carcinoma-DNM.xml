@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>Squamous-Cell-Carcinoma-DNM.jpg</filename>
+	<path>C:\Users\ritesh\Desktop\files\dissertationMain\object_detection\data\raw\Squamous-Cell-Carcinoma-DNM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skin tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>195</ymin>
+			<xmax>479</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
